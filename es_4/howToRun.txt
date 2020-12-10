@@ -1,0 +1,7 @@
+How to run es_4:
+
+	-To run the implemented tests for Edge and Graph, use:	"make graphTest"
+	-For Kruskal algorithm*, use:				            "make kruskal"				
+
+
+*kruskal algortihm applied to the data contained in "italian_dist_graph.csv" file; if you want to replace this file, just change the path to your file inside Kruskal.java (change the value of the variable "public static String path at line 9")
